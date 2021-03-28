@@ -80,3 +80,23 @@ jimmy/servlet/web/frontcontroller/v1/controller/MemberSaveControllerV1.java
  jimmy.servlet.web.frontcontroller.v1.controller.MemberSaveControllerV1
 jimmy/servlet/ServletApplication.java
  jimmy.servlet.ServletApplication
+jimmy/servlet/web/frontcontroller/v5/adapter/ControllerV3HandlerAdaptor.java
+ jimmy.servlet.web.frontcontroller.v5.adapter.ControllerV3HandlerAdaptor
+jimmy/servlet/web/frontcontroller/v5/MyHandlerAdapter.java
+ jimmy.servlet.web.frontcontroller.v5.MyHandlerAdapter
+jimmy/servlet/web/frontcontroller/v5/adapter/ControllerV4HandlerAdaptor.java
+ jimmy.servlet.web.frontcontroller.v5.adapter.ControllerV4HandlerAdaptor
+jimmy/servlet/web/frontcontroller/v5/FrontControllerV5.java
+ jimmy.servlet.web.frontcontroller.v5.FrontControllerV5
+jimmy/servlet/web/springmvc/old/OldController.java
+ jimmy.servlet.web.springmvc.old.OldController
+jimmy/servlet/web/springmvc/v1/SpringMemberFormControllerV1.java
+ jimmy.servlet.web.springmvc.v1.SpringMemberFormControllerV1
+jimmy/servlet/web/springmvc/v2/SpringMemberControllerV2.java
+ jimmy.servlet.web.springmvc.v2.SpringMemberControllerV2
+jimmy/servlet/web/springmvc/v1/SpringMemberSaveControllerV1.java
+ jimmy.servlet.web.springmvc.v1.SpringMemberSaveControllerV1
+jimmy/servlet/web/springmvc/v1/SpringMemberListControllerV1.java
+ jimmy.servlet.web.springmvc.v1.SpringMemberListControllerV1
+jimmy/servlet/web/springmvc/v3/SpringMemberControllerV3.java
+ jimmy.servlet.web.springmvc.v3.SpringMemberControllerV3
